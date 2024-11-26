@@ -82,6 +82,7 @@ section {
   list-style-type: disc;
   padding-left: 30px;
   margin: 0;
+  text-align: justify;
 }
 
 h2,
