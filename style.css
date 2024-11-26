@@ -81,6 +81,7 @@ section {
 .custom-list2 {
   list-style-type: disc;
   padding-left: 30px;
+  padding-right: 15px;
   margin: 0;
   text-align: justify;
 }
