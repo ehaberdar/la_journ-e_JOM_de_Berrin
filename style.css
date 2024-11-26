@@ -39,7 +39,9 @@ nav ul li a:hover {
 
 .logo-container {
   text-align: center; /* Logoyu konteyner içinde ortalar */
-  margin-right: 60px;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 main {
